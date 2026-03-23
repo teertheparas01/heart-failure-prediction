@@ -58,8 +58,3 @@ In medical applications, **recall is more important than accuracy**, as missing 
 - Hyperparameter tuning
 - Larger dataset
 - Deploy using Streamlit
-
----
-
-## 🧑‍💻 Author
-Your Name
