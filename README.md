@@ -54,6 +54,13 @@ In medical applications, **recall is more important than accuracy**, as missing 
 
 ---
 
+## 📊 ROC Curve
+
+The ROC curve was used to evaluate model performance.  
+The ANN model achieved a good AUC score, indicating strong classification capability.
+
+---
+
 ## 🔮 Future Work
 - Hyperparameter tuning
 - Larger dataset
